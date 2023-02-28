@@ -4,6 +4,6 @@
     "Monki kiosk windows app",
     "Monki kiosk windows app"
   ],
-  "version": "0.0.1",
+  "version": 1.0,
   "windows_file_name": "installers/windows/monki-kiosk.exe"
 }
